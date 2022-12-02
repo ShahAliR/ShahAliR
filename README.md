@@ -1,4 +1,4 @@
-### Hi there 👋I am Alireza. I am a Data Analyst with Cognitive Neurosciences background.
+### Hi there 👋I am Alireza, a Data Analyst with Cognitive Neurosciences background.
 
 - ⚡ I love Coding, Reading, Hore riding and Mountain climbing. 
 - 🌱 I’m currently learning Microsoft Power BI.
