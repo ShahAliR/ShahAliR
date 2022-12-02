@@ -9,9 +9,8 @@
 
 
 📫 How to reach me:
-- :e-mail:
-shahbabaie.ar@gmail.com
-- :link:Link to [Linkedin](https://www.linkedin.com/in/alireza-shahbabaie/)
+- :e-mail:(shahbabaie.ar@gmail.com)
+- :link: [Linkedin](https://www.linkedin.com/in/alireza-shahbabaie/)
 <!--
 **ShahAliR/ShahAliR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
